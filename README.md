@@ -3,7 +3,7 @@ An inventory analytics dashboard built to monitor batch-level expiry risks, FEFO
 
 
 # Project Background
-This project addresses these operational challenges by modeling a FEFO (First-Expired, First-Out) inventory control system for PT Aura Nusantara Cosmetics. Built using relational spreadsheet modeling, this portfolio bridges raw inbound batch receipts and outbound sales orders to evaluate batch compliance, isolate high-risk expiring inventory, and optimise working capital efficiency across beauty product categories.
+This project addresses these operational challenges by modeling a FEFO (First-Expired, First-Out) inventory control system for PT Aura Nusantara Cosmetics. This portfolio bridges raw inbound batch receipts and outbound sales orders to evaluate batch compliance, isolate high-risk expiring inventory, and optimise working capital efficiency across beauty product categories.
 # Data Structure Overview
 The project architecture mirrors an enterprise Warehouse Management System (WMS) across six dedicated worksheets in Cosmetics-Inventory-FEFO-Risk.xlsx:
 1. DASHBOARD: An executive control panel capturing high-level performance indicators (KPIs), batch compliance ratios, category turnover balances, and expiration risk distributions.
